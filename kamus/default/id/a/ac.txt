@@ -1,0 +1,5 @@
+term, tag
+acak, v
+acar, n
+acara, n
+ancam, v
