@@ -1,9 +1,21 @@
 import tagger.tagger as tg
 import kamus.kamus as km
+import nltk
+import time
 
-dok = 'Kita buat konsepnya ??? mirip Medium, hanya !!! 5aja !? topiknya f0kus ?!! pada dunia informatika. Dengan harapan dapat membantu kawan-kawan mahasiswa dan penggiat di bidang informatika http://www.guru99.com/python-regular-expressions-complete-tutorial.html #hashtag dan @mention ini'
+terms = nltk.corpus.gutenberg.words("austen-emma.txt")
 
 my_kamus = km.Kamus()
 my_tagger = tg.Tagger(my_kamus)
 
-print my_tagger.tag(dok)
+startx = time.time()
+my_tagger.tag(terms)
+endx = time.time()
+
+
+starty = time.time()
+nltk.pos_tag(terms)
+endy = time.time()
+
+print(endx-startx)
+print(endy-starty)
