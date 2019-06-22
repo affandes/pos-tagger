@@ -1,0 +1,12 @@
+term,tag
+economists,NNS
+economics,NN
+eclipse,VB
+economies,NNS
+echoed,VBN
+economic,JJ
+ec,NNP
+economical,JJ
+eclectic,JJ
+economist,NN
+economy,NN

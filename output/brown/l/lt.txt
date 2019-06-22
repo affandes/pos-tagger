@@ -1,0 +1,3 @@
+term,tag
+lt.,NN-TL
+ltd.,VBN-TL

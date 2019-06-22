@@ -1,0 +1,9 @@
+term,tag
+korea,NNP
+kong,NNP
+kondo,NNP
+komatsu,NNP
+koizumi,NNP
+kobe,NNP
+koito,NNP
+kodansha,NNP

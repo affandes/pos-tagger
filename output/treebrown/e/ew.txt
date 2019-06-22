@@ -1,0 +1,4 @@
+term,tag
+ewc,NN
+ewen,NP
+ewe,NP

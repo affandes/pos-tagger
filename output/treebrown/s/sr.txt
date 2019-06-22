@@ -1,0 +1,6 @@
+term,tag
+sr,NP
+sr.,NNP
+sr's,NN
+srelease,NN
+sreserve,NN

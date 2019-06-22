@@ -1,0 +1,10 @@
+term,tag
+italy,NNP
+items,NNS
+itoh,NNP
+it,PRP
+itc,NNP
+item,NN
+itself,PRP
+its,PRP$
+italian,JJ

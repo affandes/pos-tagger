@@ -1,0 +1,3 @@
+term,tag
+bhoy,NN
+bhutto,NNP

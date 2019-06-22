@@ -1,0 +1,3 @@
+term,tag
+ibc,NNP
+ibm,NNP

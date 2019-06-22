@@ -1,0 +1,11 @@
+term,tag
+illegally,RB
+illness,NN
+illegality,NN
+illustrates,VBZ
+illegal,JJ
+ill,JJ
+illinois,NNP
+ill.,NNP
+illuminating,NNP
+ilminster,NNP

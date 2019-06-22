@@ -1,0 +1,5 @@
+term,tag
+nrlda's,NN
+nra,NP-TL
+nrdc,NNP
+nrl,NN

@@ -1,0 +1,4 @@
+term,tag
+cm.,NNS
+cmdr.,NN-TL
+cm,NN

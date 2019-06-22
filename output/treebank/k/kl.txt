@@ -1,0 +1,4 @@
+term,tag
+klauser,NNP
+kligman,NNP
+klein,NNP

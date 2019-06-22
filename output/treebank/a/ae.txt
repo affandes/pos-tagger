@@ -1,0 +1,4 @@
+term,tag
+aerojet,NNP
+aerospace,NN
+aesthetic,JJ

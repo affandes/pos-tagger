@@ -1,0 +1,7 @@
+term,tag
+yasuda,NNP
+yang,NNP
+yale,NNP
+yamaichi,NNP
+yamamoto,NNP
+yasser,NNP

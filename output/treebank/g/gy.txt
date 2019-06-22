@@ -1,0 +1,3 @@
+term,tag
+gyrations,NNS
+gyrate,VB

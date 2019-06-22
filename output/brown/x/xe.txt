@@ -1,0 +1,4 @@
+term,tag
+xenia,NP
+xenophobia,NN
+xenon,NN

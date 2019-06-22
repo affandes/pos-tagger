@@ -1,0 +1,15 @@
+term,tag
+lurgi,NNP
+lure,VB
+luxury,NN
+lungs,NNS
+lunch,NN
+lucille,NNP
+lucky,JJ
+luce,NNP
+lung,NN
+lumpur,NNP
+lufkin,NNP
+lucrative,JJ
+lurie,NNP
+luck,NN

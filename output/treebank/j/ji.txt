@@ -1,0 +1,5 @@
+term,tag
+jihad,NNP
+jitters,NNS
+jim,NNP
+jimmy,NNP

@@ -1,0 +1,10 @@
+term,tag
+identical,JJ
+ideas,NNS
+idiomatic,JJ
+idea,NN
+identified,VBD
+identify,VB
+ideological,JJ
+identity-management,NN
+identities,NNS

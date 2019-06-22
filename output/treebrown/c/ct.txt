@@ -1,0 +1,6 @@
+term,tag
+ctbs,NNP
+ctca,NN
+ct.,NN-TL
+cta,NP
+ctb,NNP

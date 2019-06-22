@@ -1,0 +1,10 @@
+term,tag
+awfully,RB
+away,RB
+awarding,VBG
+awarded,VBN
+awards,VBZ
+awful,JJ
+aware,JJ
+awareness,NN
+awaits,VBZ

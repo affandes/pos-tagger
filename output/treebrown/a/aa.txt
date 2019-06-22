@@ -1,0 +1,8 @@
+term,tag
+aa,NP-TL
+aaawww,UH
+aaa-ee,UH
+aab/,NN
+aah,UH
+aaron,NP
+aaa,NN

@@ -1,0 +1,5 @@
+term,tag
+osaka,NNP
+osha,NNP
+osborn,NNP
+oshkosh,NNP

@@ -1,0 +1,6 @@
+term,tag
+kyoto,NP
+kyo,NP
+kyne,NP
+kyo-zan,NP
+ky.,NP

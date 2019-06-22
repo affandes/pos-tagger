@@ -1,0 +1,4 @@
+term,tag
+izvestia,NP
+izaak,NP-TL
+izaak's,NP$

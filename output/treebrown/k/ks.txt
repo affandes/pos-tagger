@@ -1,0 +1,3 @@
+term,tag
+ksu'u'peli'afo,FW-VB
+ksan,NN

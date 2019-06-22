@@ -1,0 +1,4 @@
+term,tag
+ss,NP
+sssshoo,UH
+ss.,NP

@@ -1,0 +1,10 @@
+term,tag
+effective,JJ
+efficiency,NN
+efficient,JJ
+effect,NN
+effectively,RB
+efficiencies,NNS
+effects,NNS
+efforts,NNS
+effort,NN

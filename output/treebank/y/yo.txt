@@ -1,0 +1,17 @@
+term,tag
+younkers,NNP
+yon,RB
+younger,JJR
+yorkers,NNPS
+yoshihashi,NNP
+youths,NNP
+young,NNP
+youngsters,NNS
+youth,NN
+york,NNP
+yorker,NNP
+york-based,JJ
+you,PRP
+yourself,PRP
+your,PRP$
+youthful,JJ

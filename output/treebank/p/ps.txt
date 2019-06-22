@@ -1,0 +1,6 @@
+term,tag
+psychiatry,NNP
+ps,NNP
+psychology,NN
+psychiatric,JJ
+psychiatrist,NN

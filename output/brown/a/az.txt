@@ -1,0 +1,5 @@
+term,tag
+azaleas,NNS
+azerbaijan,NP-TL
+azalea,NN
+azusa,NP

@@ -1,0 +1,8 @@
+term,tag
+einhorn,NNP
+eight-person,JJ
+eight-month,JJ
+eight-count,JJ
+eight,CD
+either,DT
+eighth,JJ

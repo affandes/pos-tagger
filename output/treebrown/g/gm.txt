@@ -1,0 +1,4 @@
+term,tag
+gm,NNP
+gmac,NNP
+gm.,NNS

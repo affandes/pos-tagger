@@ -1,0 +1,6 @@
+term,tag
+nbc,NNP
+nbc-tv,NN
+nbs,NN
+nbi,NNP
+nbc-owned,JJ

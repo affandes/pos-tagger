@@ -1,0 +1,16 @@
+term,tag
+knowing,VBG
+knopf,NNP
+knowns,NNS
+knows,VBZ
+knight,NN
+knew,VBD
+knapp,NNP
+knitted,VBN
+knocked,VBD
+know,VBP
+knowledgeable,JJ
+known,VBN
+knell,NN
+knife,NN
+knowledge,NN

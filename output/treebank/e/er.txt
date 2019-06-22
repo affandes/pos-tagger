@@ -1,0 +1,12 @@
+term,tag
+errors,NNS
+erode,VB
+erudite,JJ
+erbamont,NN
+erect,VB
+erroneous,JJ
+erasures,NNS
+era,NN
+erodes,VBZ
+error,NN
+eric,NNP

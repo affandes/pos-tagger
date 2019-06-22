@@ -1,0 +1,4 @@
+term,tag
+ubermenschen,FW-NNS
+ubiquitous,JJ
+ubs,NNP

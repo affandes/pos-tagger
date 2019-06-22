@@ -1,0 +1,16 @@
+term,tag
+equities,NNS
+equally,RB
+equal-opportunity,NN
+equivalent,JJ
+equity,NN
+equals,VBZ
+equal,JJ
+equipment,NN
+equitable,NNP
+equaling,VBG
+equity-purchase,JJ
+equipped,VBN
+equivalents,NNS
+equip,VB
+equus,NNP

@@ -1,0 +1,5 @@
+term,tag
+kuhns,NNP
+kurland,NNP
+kuala,NNP
+kuvin,NNP

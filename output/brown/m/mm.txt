@@ -1,0 +1,8 @@
+term,tag
+mmm,UH
+mmes,NN
+mm,NN
+mmes.,NPS
+mmmm,UH
+mm.,NNS
+mme,NP

@@ -1,0 +1,13 @@
+term,tag
+olympia,NNP
+olympic,NNP
+oliver,NNP
+old,JJ
+old-style,JJ
+older,JJR
+old-fashioned,JJ
+old-time,JJ
+olsen,NNP
+olson,NNP
+oldest,JJS
+old-house,NNP

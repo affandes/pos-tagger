@@ -1,0 +1,3 @@
+term,tag
+bg,NN
+bgs,NN

@@ -1,0 +1,6 @@
+term,tag
+egypt,NNP
+egyptian,JJ
+eggers,NNP
+egnuss,NNP
+egregious,JJ

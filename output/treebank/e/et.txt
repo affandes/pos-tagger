@@ -1,0 +1,7 @@
+term,tag
+ethical,JJ
+ethel,NNP
+eternal,JJ
+ethanol,NN
+ethics,NNS
+etc.,FW

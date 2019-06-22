@@ -1,0 +1,5 @@
+term,tag
+ikey-kikey,JJ
+ike's,NP+BEZ
+ike,NP
+ikle,NP

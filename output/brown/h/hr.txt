@@ -1,0 +1,5 @@
+term,tag
+hr,NN
+hrothgar,NP
+hr.,NNS
+hrothgar's,NP$

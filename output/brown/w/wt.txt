@@ -1,0 +1,3 @@
+term,tag
+wt,NN
+wtv,NN

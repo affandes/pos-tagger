@@ -1,0 +1,5 @@
+term,tag
+szolds',NPS$
+szold,NP
+szolds,NPS
+szelenyi,NP

@@ -1,0 +1,15 @@
+term,tag
+kunkel's,NP$
+kuhns,NNP
+kulturbund,FW-NN-TL
+ku,NP
+kurland,NNP
+kurd,NP
+kurigalzu,NP
+kuvin,NNP
+kubek,NP
+kuala,NNP
+kuhn,NP
+kurt,NP
+kunkel,NP
+kupcinet,NP

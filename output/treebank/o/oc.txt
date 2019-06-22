@@ -1,0 +1,13 @@
+term,tag
+occupying,VBG
+october,NNP
+occidental,NNP
+occurred,VBD
+occurs,VBZ
+oct.,NNP
+occasionally,RB
+occupant,NN
+occupational,NNP
+octogenarians,NNS
+occur,VB
+occurrences,NNS

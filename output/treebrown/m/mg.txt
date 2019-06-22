@@ -1,0 +1,7 @@
+term,tag
+mg,NN
+mg/l,NN
+mg/lbod,NN
+mg.,NN
+mgm,NN
+mg/l/hr,NN

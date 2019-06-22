@@ -1,0 +1,9 @@
+term,tag
+ebb,VB
+ebbetts,NP-TL
+eben,NP
+eber,NP
+ebbing,VBG
+ebbs,VBZ
+ebony,NN
+ebullient,JJ

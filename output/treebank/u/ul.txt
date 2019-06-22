@@ -1,0 +1,4 @@
+term,tag
+ultimately,RB
+ultimatum,NN
+ultimate,JJ

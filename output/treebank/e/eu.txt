@@ -1,0 +1,6 @@
+term,tag
+europe,NNP
+eurobonds,NNS
+eugene,NNP
+eurodollars,NNS
+european,JJ

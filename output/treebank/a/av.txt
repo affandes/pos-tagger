@@ -1,0 +1,14 @@
+term,tag
+available,JJ
+avid,JJ
+avrett,NNP
+avert,VB
+avoiding,VBG
+average,NN
+averaged,VBD
+averted,VBN
+avenge,VB
+avon,NNP
+avenues,NNS
+avenue,NNP
+avoid,VB

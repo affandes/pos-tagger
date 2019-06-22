@@ -1,0 +1,17 @@
+term,tag
+twinned,VBN
+two-year-old,JJ
+twist,NN
+two-week,JJ
+two-tiered,JJ
+twisting,VBG
+twin-jet,NN
+two,CD
+two-sevenths,NNS
+two-time-losers,JJ
+twice,RB
+twin,NN
+twindam,NN
+two-letter,JJ
+two-thirds,NNS
+two-year,JJ

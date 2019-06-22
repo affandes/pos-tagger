@@ -1,0 +1,3 @@
+term,tag
+bmt,NN
+bmews,NP

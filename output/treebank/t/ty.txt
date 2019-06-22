@@ -1,0 +1,6 @@
+term,tag
+typically,RB
+type,NN
+tyre,NNP
+types,NNS
+typical,JJ

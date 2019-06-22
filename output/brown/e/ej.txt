@@ -1,0 +1,5 @@
+term,tag
+ejaculated,VBD
+ejection,NN
+eject,VB
+ejected,VBN

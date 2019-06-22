@@ -1,0 +1,3 @@
+term,tag
+xreserve,NN
+xrelease,NN

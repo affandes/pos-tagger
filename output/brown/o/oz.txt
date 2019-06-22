@@ -1,0 +1,8 @@
+term,tag
+ozagen,NP
+ozarks,NPS
+ozagenians,NPS
+oz.,NN
+ozone,NN
+ozon,NP
+ozzie,NP

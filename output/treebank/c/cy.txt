@@ -1,0 +1,4 @@
+term,tag
+cyclical,JJ
+cycles,NNS
+cycle,NN

@@ -1,0 +1,10 @@
+term,tag
+pt.,NN-TL
+ptolemy,NP
+ptolemaic,JJ
+ptc,NN
+pta,NNP
+ptolemy's,NP$
+ptolemaists,NPS
+pty.,NNP
+pterygia,NN

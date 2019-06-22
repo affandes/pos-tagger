@@ -1,0 +1,11 @@
+term,tag
+ry.,NN-TL
+ryne,NP
+ryc',NP
+rye,NN
+ryder,NP
+ryan,NP
+ryerson,NP
+ryusenji,NP
+rychard,NP
+rylie,NP

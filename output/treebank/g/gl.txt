@@ -1,0 +1,15 @@
+term,tag
+glenn,NNP
+gloss,VBP
+glory,NN
+glass,NN
+glaxo,NNP
+globe,NN
+global,JJ
+glenham,NNP
+globally,RB
+glauber,NNP
+gloomy,JJ
+glendale,NNP
+glitches,NNS
+glamorize,VB

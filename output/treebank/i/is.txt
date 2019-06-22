@@ -1,0 +1,14 @@
+term,tag
+israel,NNP
+isabelle,NNP
+issued,VBD
+is,VBZ
+islamic,NNP
+issuing,VBG
+island,NNP
+islands,NNPS
+islamabad,NNP
+issuer,NN
+issue,NN
+issues,NNS
+issuers,NNS

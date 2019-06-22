@@ -1,0 +1,5 @@
+term,tag
+ml,NN
+ml.,NN
+mlle,NN
+mlss,NN
