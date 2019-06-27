@@ -1,0 +1,3 @@
+term,tag
+xavier,NP
+xavier's,NP$

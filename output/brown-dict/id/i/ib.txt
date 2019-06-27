@@ -1,0 +1,6 @@
+term,tag
+ibsen,NP
+ibrahim,NP
+iberia,NP-TL
+ibm,NP-TL
+ibn,NP

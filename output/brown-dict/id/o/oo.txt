@@ -1,0 +1,7 @@
+term,tag
+oopsie-cola,NP
+ooh,NN
+oooo,UH
+oozed,VBD
+oops,UH
+ooze,VB

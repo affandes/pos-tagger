@@ -1,0 +1,13 @@
+term,tag
+khaneh,FW-NN
+khmer,NP
+khaki,JJ
+khan,NN
+khrush,NP
+khrushchev,NP
+khartoum,NP
+khrushchevs,NPS
+khrushchev's,NP$
+khaki-bound,JJ
+khasi,NP-TL
+khaju,NP

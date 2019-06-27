@@ -1,0 +1,4 @@
+term,tag
+sbcs-type,NN
+sba,NP-TL
+sba's,NN

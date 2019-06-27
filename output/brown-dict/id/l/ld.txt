@@ -1,0 +1,4 @@
+term,tag
+ld,NP
+ld056,CD
+ld060,NN

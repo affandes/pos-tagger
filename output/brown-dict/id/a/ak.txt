@@ -1,0 +1,5 @@
+term,tag
+akron,NP
+akin,JJ
+aku,NN
+akita,NP

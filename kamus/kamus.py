@@ -11,21 +11,23 @@ class Kamus():
     __path = ''
     __lang = ''
     __notag = 'x'
+    __is_single_file = False
 
-    def __init__(self, lang='id', path='default'):
+    def __init__(self, lang='id', path='kamus/default', is_single=False):
         self.__path = path
         self.__lang = lang
+        self.__is_single_file = is_single
 
     def __get_file_name(self, term):
         if len(term) > 1:
-            return "kamus/" + self.__path + "/" + self.__lang + "/" + term[0] + "/" + term[0:2] + ".txt"
+            return self.__path + "/" + self.__lang + "/" + term[0] + "/" + term[0:2] + ".txt"
         else:
-            return "kamus/" + self.__path + "/" + self.__lang + "/" + term[0] + "/" + term + ".txt"
+            return self.__path + "/" + self.__lang + "/" + term[0] + "/" + term + ".txt"
 
     def __has_file(self, file_name):
         return os.path.isfile(file_name)
 
-    def __load_kamus_file(self, term):
+    def __load_kamus_file_by_term(self, term):
         fullpath = self.__get_file_name(term)
         if self.__has_file(fullpath):
             with open(fullpath) as cf:
@@ -44,6 +46,11 @@ class Kamus():
             else:
                 self.__kamus[term[0]][term] = {}
 
+    def __load_kamus_file_by_file_name(self, file_name):
+        if not self.__has_file(file_name):
+            return False
+
+
 
     def __save_kamus_file(self, file_name):
         with open(file_name, mode='w') as cf:
@@ -55,10 +62,10 @@ class Kamus():
                     for k,v in grup.items():
                         writer.writerow({'term':k,'tag':v.get('tag')})
 
-    def __save_kamus_dir(self, dir):
+    def __save_kamus_dir(self, dir, lang="id"):
         for ka,abjad in self.__kamus.items():
             for kg,grup in abjad.items():
-                dirs = dir + os.altsep + ka
+                dirs = dir + os.altsep + lang + os.altsep + ka
                 if not os.path.exists(dirs):
                     os.makedirs(dirs)
 
@@ -79,15 +86,24 @@ class Kamus():
         self.__save_kamus_file(file_name)
         print "=Kamus disimpan di " + file_name
 
-    def save_kamus_dir(self, dir):
-        self.__save_kamus_dir(dir)
+    def save_kamus_dir(self, dir, lang="id"):
+        self.__save_kamus_dir(dir, lang)
         print "Kamus disimpan di " + dir
 
+    def load_kamus_by_file(self, file_name):
+        return False
 
-    def load_kamus(self, term):
-        term = str.lower(term)
+    def load_kamus_by_dir(self, dir):
+        return False
+
+    def load_kamus_by_term(self, term):
+        if type(term) == unicode:
+            term = str.lower(term.encode('utf-8'))
+        else:
+            term = str.lower(term)
+
         if not self.has_kamus_loaded(term):
-            self.__load_kamus_file(term)
+            self.__load_kamus_file_by_term(term)
 
     def update_kamus(self, new_tuple):
         if len(new_tuple) != 2:
@@ -117,26 +133,38 @@ class Kamus():
                 self.__kamus[term[0]][term[0]][term] = {'tag':tag}
 
     def has_kamus_loaded(self, term):
-        term = str.lower(term)
+        if type(term) == unicode:
+            term = str.lower(term.encode('utf-8'))
+        else:
+            term = str.lower(term)
+
         if term[0] not in self.__kamus:
             self.__kamus[term[0]] = {}
 
         return term[0:2] in self.__kamus[term[0]]
 
     def has_non_alpha(self, term):
-        term = str.lower(term)
+        if type(term) == unicode:
+            term = str.lower(term.encode('utf-8'))
+        else:
+            term = str.lower(term)
+
         return not re.match(r"^[A-Za-z]+[\w]+", term)
 
     def get_class(self):
         return self.__class__.__name__
 
     def get_tag(self, term):
-        term = str.lower(term)
+        if type(term) == unicode:
+            term = str.lower(term.encode('utf-8'))
+        else:
+            term = str.lower(term)
+
         if self.has_non_alpha(term):
             return self.__notag
 
         if not self.has_kamus_loaded(term):
-            self.load_kamus(term)
+            self.load_kamus_by_term(term)
 
         if len(term) > 1:
             if term in self.__kamus[term[0]][term[0:2]]:

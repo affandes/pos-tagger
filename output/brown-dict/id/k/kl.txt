@@ -1,0 +1,17 @@
+term,tag
+klaus,NP
+klimt,NP
+klein,NP
+kleist,NP
+kline,NP
+klux,NP
+klinico,FW-NN-TL
+kleiber,NP
+kleenex,NP
+klemperer's,NP$
+kloman,NP
+kluckhohn,NP
+klauber,NP
+klan,NP
+klaxon,NN
+klees,NPS

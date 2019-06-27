@@ -1,0 +1,3 @@
+term,tag
+vs,NP-TL
+vs.,IN-TL

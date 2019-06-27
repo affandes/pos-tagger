@@ -1,0 +1,3 @@
+term,tag
+tv,NP-TL
+tva,NN-HL

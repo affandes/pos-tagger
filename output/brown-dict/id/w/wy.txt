@@ -1,0 +1,15 @@
+term,tag
+wynne,VB
+wylie,NP
+wynn,NP
+wycoff,NP
+wyoming,NP
+wycliffe,NP
+wyatt,NP
+wycombe,NP-TL
+wyman,NP
+wyn,NP
+wyckoff,NP
+wyndham's,NP$
+wycoff's,NP$
+wynston,NP

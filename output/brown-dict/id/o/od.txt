@@ -1,0 +1,17 @@
+term,tag
+odd-lot,NN
+odilo,NP
+odds-on,JJ
+odors,NNS
+odor,NN
+odell,NP
+oder,NP
+oddly,RB
+odom,NP
+odyssey,NN
+odysseus,NP
+oddities,NNS
+odious,JJ
+odd,JJ
+odds,NNS
+odessa,NP

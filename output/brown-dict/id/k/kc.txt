@@ -1,0 +1,5 @@
+term,tag
+kc,NP-TL
+kc-135,NN
+kc.,NNS
+kcs,NP-TL

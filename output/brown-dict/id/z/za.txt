@@ -1,0 +1,11 @@
+term,tag
+zapala,NP
+zaporogian,JJ
+zabel,NP
+zadel,NP
+zara,NP
+zachrisson,NP
+zamiatin's,NP$
+zachrisson's,NP$
+zaroubin,NP
+zanzibar,NP

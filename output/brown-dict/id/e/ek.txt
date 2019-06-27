@@ -1,0 +1,7 @@
+term,tag
+ekaterinoslav,NP-TL
+ekstrohm's,NP$
+ekwanok,NP-TL
+ekstrohm,NP
+eked,VBN
+ekberg,NP

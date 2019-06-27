@@ -1,0 +1,5 @@
+term,tag
+tcu,NN
+tcu's,NN
+tchalo,FW-UH
+tchaikovsky,NP

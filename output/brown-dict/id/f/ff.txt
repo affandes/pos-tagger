@@ -1,0 +1,4 @@
+term,tag
+ffortescue,NP
+ffreind,VB
+ffa,NN

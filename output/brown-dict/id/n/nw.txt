@@ -1,0 +1,3 @@
+term,tag
+nw.,NN-TL
+nw,NN
