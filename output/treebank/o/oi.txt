@@ -1,0 +1,4 @@
+term,tag
+oilman,NN
+oil,NN
+oils,NNS

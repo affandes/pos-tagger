@@ -1,0 +1,12 @@
+term,tag
+numbered,VBD
+nutrition,NN
+nuys,NNP
+nuclear,JJ
+number,NN
+nutty,JJ
+numbers,NNS
+numeral,NN
+nurtured,VBN
+numerous,JJ
+nullified,VBN

@@ -1,0 +1,3 @@
+term,tag
+jr.,NNP
+jr,NNP

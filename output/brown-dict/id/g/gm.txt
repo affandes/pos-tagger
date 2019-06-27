@@ -1,0 +1,3 @@
+term,tag
+gm,NN
+gm.,NNS

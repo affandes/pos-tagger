@@ -1,0 +1,5 @@
+term,tag
+urge,VBP
+urging,VBG
+urged,VBD
+urban,NNP

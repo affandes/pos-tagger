@@ -1,0 +1,4 @@
+term,tag
+ious,NNS
+iowa,NNP
+iota,NN

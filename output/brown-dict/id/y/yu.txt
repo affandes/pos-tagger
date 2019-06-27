@@ -1,0 +1,13 @@
+term,tag
+yurochka,NP
+yum-yum,NP-TL
+yucca,NN
+yuba,NP-TL
+yuh,PPSS
+yugoslavia,NP
+yuri,NP
+yujobo,NP
+yuse,NN
+yugoslav,JJ-TL
+yucatan,NP-TL
+yuki,NP

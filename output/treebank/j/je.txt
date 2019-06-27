@@ -1,0 +1,16 @@
+term,tag
+jeffrey,NNP
+jeremy,NNP
+jews,NNS
+jet,NN
+jeopardy,NN
+jerry,NNP
+jeweler,NN
+jeopardizing,VBG
+jefferson,NNP
+jennison,NNP
+jenkins,NNP
+jersey-based,JJ
+jerritts,NNP
+jenrette,NNP
+jersey,NNP

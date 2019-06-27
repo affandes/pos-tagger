@@ -1,0 +1,5 @@
+term,tag
+snapped,VBN
+sneaked,VBD
+snow,NN
+snaking,VBG

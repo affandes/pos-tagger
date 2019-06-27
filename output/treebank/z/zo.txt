@@ -1,0 +1,3 @@
+term,tag
+zoomed,VBN
+zone,NN

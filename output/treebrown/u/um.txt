@@ -1,0 +1,8 @@
+term,tag
+umschlagplatz,NP
+umbrella,NN
+umpire,NN
+um,UH
+umm,UH
+umber,NN
+umbrellas,NNS

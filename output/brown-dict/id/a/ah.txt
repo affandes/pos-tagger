@@ -1,0 +1,13 @@
+term,tag
+ah-ah,UH
+ahead,RB
+ahmad's,NP$
+ah,UH
+ahah,UH
+ahmad,NP
+ahm,PPSS+BEM
+ahmiri,NP
+ahmet,NP-TL
+ah6,NN
+ahrens,NP
+ahem,UH

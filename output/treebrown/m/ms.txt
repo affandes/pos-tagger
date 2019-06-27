@@ -1,0 +1,4 @@
+term,tag
+ms.,NNP
+msec.,NNS
+ms,NP-TL

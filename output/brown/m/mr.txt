@@ -1,0 +1,6 @@
+term,tag
+mr.,NP
+mrads,NN
+mrad,NN
+mrs.,NP
+mrs,NN

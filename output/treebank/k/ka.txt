@@ -1,0 +1,14 @@
+term,tag
+kalamazoo,NNP
+kaminski,NNP
+kane,NNP
+katzenstein,NNP
+kathleen,NNP
+kansas,NNP
+kalipharma,NNP
+kathryn,NNP
+kangyo,NNP
+karns,NNP
+kappa,NNP
+kawasaki,NNP
+karl,NNP

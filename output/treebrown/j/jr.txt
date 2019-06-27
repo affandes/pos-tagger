@@ -1,0 +1,4 @@
+term,tag
+jr.,NNP
+jr.'s,NP$
+jr,NNP

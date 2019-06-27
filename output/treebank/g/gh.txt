@@ -1,0 +1,3 @@
+term,tag
+ghkm,NNP
+ghs,NNP

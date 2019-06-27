@@ -1,0 +1,5 @@
+term,tag
+cdc,NNP
+cdc's,NN
+cds,NNS
+cd,NP-TL

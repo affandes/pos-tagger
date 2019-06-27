@@ -1,0 +1,6 @@
+term,tag
+odds,NNS
+odd-year,JJ
+odd,JJ
+odyssey,NNP
+odd-sounding,JJ

@@ -1,0 +1,5 @@
+term,tag
+bmp,NN
+bmp-1,NN
+bmt,NN
+bmews,NP

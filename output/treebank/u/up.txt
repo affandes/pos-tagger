@@ -1,0 +1,17 @@
+term,tag
+upper,JJ
+uptick,NN
+upsetting,VBG
+upset,VBN
+upscale,NN
+upon,IN
+upham,NNP
+up,RP
+upturn,NN
+upheld,VBN
+upstream,RB
+upside,RB
+upjohn,NNP
+upstate,JJ
+upbeat,JJ
+upward,JJ

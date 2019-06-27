@@ -1,0 +1,5 @@
+term,tag
+ajar,RB
+aja,NN
+ajb,NN
+aj,NP-TL

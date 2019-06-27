@@ -1,0 +1,10 @@
+term,tag
+nymphomaniacs,NNS
+nymph,NN
+nyberg,NP
+nyu,NN
+nymphs,NNS
+nymphomaniac,NN
+nylon,NN
+nylev,NNP
+nyse,NNP

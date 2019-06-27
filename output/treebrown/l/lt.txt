@@ -1,0 +1,5 @@
+term,tag
+ltv,NNP
+lt.,NNP
+ltd.,NNP
+ltd,NNP

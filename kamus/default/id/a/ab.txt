@@ -1,0 +1,5 @@
+term, tag
+abah, n
+abang, n
+abi, n
+abu, n

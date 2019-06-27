@@ -1,0 +1,5 @@
+term,tag
+rdw,NN
+rd.,NN-TL
+rdws,NN
+rdf,NN

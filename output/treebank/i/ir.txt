@@ -1,0 +1,11 @@
+term,tag
+iran\/contra,NNP
+irony,NN
+irs,NNP
+irwin,NNP
+irving,NNP
+irvine,NNP
+iran-contra,NNP
+iras,NNS
+irrelevant,JJ
+ire,NN

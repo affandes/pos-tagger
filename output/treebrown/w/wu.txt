@@ -1,0 +1,5 @@
+term,tag
+wus,JJR
+wu,NNP
+wuh,BED
+wustman,NP

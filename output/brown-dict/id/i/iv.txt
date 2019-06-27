@@ -1,0 +1,7 @@
+term,tag
+ivy-covered,JJ
+ivory,NN
+ivory-inlay,NN
+ivan,NP
+ivies,NPS
+ivy,NN-TL

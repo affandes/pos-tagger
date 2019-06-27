@@ -1,0 +1,4 @@
+term,tag
+cdc,NN
+cdc's,NN
+cd,NP-TL

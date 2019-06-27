@@ -1,0 +1,2 @@
+term,tag
+ns,NN

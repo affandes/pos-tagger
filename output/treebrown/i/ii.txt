@@ -1,0 +1,4 @@
+term,tag
+ii,NNP
+iijima,NP
+iii,NNP

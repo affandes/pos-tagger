@@ -1,0 +1,7 @@
+term,tag
+lyrics,NNS
+lynch-mob,JJ
+lyle,NNP
+lynch,NNP
+lyn,NNP
+lying,VBG

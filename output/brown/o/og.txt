@@ -1,0 +1,5 @@
+term,tag
+ogled,VBD
+ogden,NP-TL
+oglethorpe,NP-TL
+ogress,NN

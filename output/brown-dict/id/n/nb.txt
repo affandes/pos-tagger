@@ -1,0 +1,4 @@
+term,tag
+nbc,NN-TL
+nbc-tv,NN
+nbs,NN

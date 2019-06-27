@@ -1,0 +1,2 @@
+term,tag
+ugly,JJ

@@ -1,0 +1,9 @@
+term,tag
+ayres',NP$
+aysshom,NP
+aye,RB
+aye-yah-ah-ah,UH
+aya,NN-NC
+aylesbury,NP
+ayes,NNS
+ayub,NP

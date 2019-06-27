@@ -1,0 +1,5 @@
+term,tag
+kwhr,NN
+kwashiorkor,FW-NN
+kwame,NP
+kwango,NP-TL

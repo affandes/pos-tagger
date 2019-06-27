@@ -1,0 +1,3 @@
+term,tag
+cbs,NNP
+cb,NP-TL

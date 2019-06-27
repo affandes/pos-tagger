@@ -1,0 +1,8 @@
+term,tag
+czarship,NN-TL
+czech,JJ
+czechoslovakia,NNP
+czerny,NP
+czarina,NN-TL
+czar,NN-TL
+czarina's,NN$-TL

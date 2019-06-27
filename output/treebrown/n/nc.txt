@@ -1,0 +1,5 @@
+term,tag
+ncta,NN
+ncnb,NNP
+ncr,NNP
+nc,NN

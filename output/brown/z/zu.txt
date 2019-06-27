@@ -1,0 +1,6 @@
+term,tag
+zurcher,NP
+zur,FW-IN+AT-TL
+zu,FW-RB
+zubkovskaya,NP
+zurich,NP

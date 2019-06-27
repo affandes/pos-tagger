@@ -1,0 +1,6 @@
+term,tag
+oersted,NP
+oedipus,NP-TL
+oedipal,JJ
+oep,NN
+oersted's,NP$

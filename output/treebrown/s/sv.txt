@@ -1,0 +1,5 @@
+term,tag
+svevo,NP
+svelte,JJ
+svenskarna,FW-NPS-TL
+svenska,NNP

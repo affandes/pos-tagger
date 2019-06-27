@@ -1,0 +1,4 @@
+term,tag
+myriad,JJ
+my,PRP$
+myron,NNP

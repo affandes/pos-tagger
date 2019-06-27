@@ -1,0 +1,14 @@
+term,tag
+mcfarlan,NNP
+mcleod,NNP
+mccormick,NNP
+mcdonald,NNP
+mcgraw-hill,NNP
+mcalpine,NNP
+mcdermott,NNP
+mccabe,NNP
+mcmillin,NNP
+mcfall,NNP
+mcgovern,NNP
+mcguigan,NNP
+mcauley,NNP

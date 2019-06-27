@@ -1,0 +1,5 @@
+term,tag
+wtvj,NNP
+wt,NN
+wtd,NNP
+wtv,NN

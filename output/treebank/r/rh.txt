@@ -1,0 +1,5 @@
+term,tag
+rhetoric,NN
+rhone,NNP
+rhythm,NN
+rhythmically,RB

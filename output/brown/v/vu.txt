@@ -1,0 +1,11 @@
+term,tag
+vulpine,JJ
+vulture-like,JJ
+vue,NP
+vulcanized,VBN
+vulgar,JJ
+vulture,NN
+vuhranduh,NN
+vulnerability,NN
+vulturidae,NPS
+vulnerable,JJ

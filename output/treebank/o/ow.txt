@@ -1,0 +1,9 @@
+term,tag
+owed,VBN
+owners,NNS
+own,JJ
+owned,VBN
+ownership,NN
+owns,VBZ
+owner,NN
+owning,VBG

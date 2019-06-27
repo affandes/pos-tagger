@@ -1,0 +1,4 @@
+term,tag
+nlrda,NN
+nl,NNP
+nlrb,NN

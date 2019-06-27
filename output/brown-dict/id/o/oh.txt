@@ -1,0 +1,5 @@
+term,tag
+ohio,NP
+oh,UH
+ohmic,JJ
+oh-the-pain-of-it,UH

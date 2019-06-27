@@ -1,0 +1,6 @@
+term,tag
+lb-plus,NN
+lbs.,NNS
+lb/day,NN
+lb,NN
+lb.,NN-HL

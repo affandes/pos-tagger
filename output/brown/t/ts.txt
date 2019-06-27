@@ -1,0 +1,16 @@
+term,tag
+tsem,NP
+tsunami,NN
+tsh,NN
+tsitouris,NP
+tsarevich,NP
+tsvetkov,NP
+tshombe,NP
+tsh-treated,NN
+tschilwyk,NP
+tsunami-warning,JJ
+tsar,NP
+tshombe-gizenga-goa-ghana,NP
+tsou,NP
+tsar's,NP$
+tsarism,NP

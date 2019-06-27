@@ -1,0 +1,6 @@
+term,tag
+hydraulically,RB
+hysteria,NN
+hymowitz,NNP
+hypothetical,JJ
+hypocrisy,NN

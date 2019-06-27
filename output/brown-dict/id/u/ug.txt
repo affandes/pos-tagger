@@ -1,0 +1,6 @@
+term,tag
+ugliness,NN
+ugly,JJ
+uglier,JJR
+ugh,UH
+ugf,NN

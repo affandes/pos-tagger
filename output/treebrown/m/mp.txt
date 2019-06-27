@@ -1,0 +1,4 @@
+term,tag
+mp's,NN
+mpl,NN
+mph,NN

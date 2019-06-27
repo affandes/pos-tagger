@@ -1,0 +1,6 @@
+term,tag
+otherwise,RB
+otc,NNP
+other,JJ
+otero,NNP
+others,NNS

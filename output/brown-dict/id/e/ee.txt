@@ -1,0 +1,7 @@
+term,tag
+eerie,JJ
+eel,NN
+ee-faket,NN
+eeg,NN
+eerily,RB
+eeae-cellulose,NN

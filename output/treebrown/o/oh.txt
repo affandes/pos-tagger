@@ -1,0 +1,6 @@
+term,tag
+ohio-based,JJ
+ohio,NNP
+oh,UH
+ohmic,JJ
+oh-the-pain-of-it,UH

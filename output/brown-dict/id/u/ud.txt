@@ -1,0 +1,4 @@
+term,tag
+udon,FW-NN
+udall's,NP$
+udall,NP

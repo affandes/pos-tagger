@@ -1,0 +1,11 @@
+term,tag
+oks,VBZ-HL
+ok,RB
+oklahoma,NP
+oklahoma!,NP
+okinawa,NP
+okada,NP
+okay,UH
+okla.,NP
+okamoto,NP
+ok.,UH

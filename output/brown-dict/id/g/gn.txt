@@ -1,0 +1,11 @@
+term,tag
+gnp,NN
+gnaw,VB
+gnome,NN
+gnomelike,JJ
+gnarled,JJ
+gnawing,VBG
+gnawed,VBD
+gnomes,NNS
+gnomon,NN
+gnashing,VBG

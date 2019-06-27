@@ -1,0 +1,4 @@
+term,tag
+mr.,NNP
+mrs.,NNP
+mrs,NNP

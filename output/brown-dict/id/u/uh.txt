@@ -1,0 +1,6 @@
+term,tag
+uh-huh,UH
+uh-uh,UH
+uhles,NP
+uh,UH
+uhhu,UH

@@ -1,0 +1,4 @@
+term,tag
+ohio,NNP
+ohio-based,JJ
+oh,UH

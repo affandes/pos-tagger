@@ -1,0 +1,4 @@
+term,tag
+lloyd's,NP$-TL
+lloyd,NNP
+llewellyn,NP

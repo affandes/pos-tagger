@@ -1,0 +1,5 @@
+term,tag
+ft-se,NNP
+ft,NNP
+ftc,NNP
+ft.,NN

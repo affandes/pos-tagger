@@ -1,0 +1,5 @@
+term,tag
+yields,NNS
+yielding,VBG
+yield,NN
+yielded,VBD

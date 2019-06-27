@@ -1,0 +1,3 @@
+term,tag
+ft,NN
+ft.,NN

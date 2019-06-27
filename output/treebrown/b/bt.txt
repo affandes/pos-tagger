@@ -1,0 +1,4 @@
+term,tag
+btu,NN
+btu's,NN
+btr,NNP

@@ -1,0 +1,4 @@
+term,tag
+bygone,JJ
+by,IN
+byron,NNP

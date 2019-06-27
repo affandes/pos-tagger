@@ -1,0 +1,3 @@
+term,tag
+zuckerman,NNP
+zurich,NNP

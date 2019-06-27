@@ -1,0 +1,4 @@
+term,tag
+lso,NN
+lsu,NN
+lsi,NNP

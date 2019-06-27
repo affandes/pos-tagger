@@ -1,0 +1,11 @@
+term,tag
+yin-yang,NP
+yin,NP
+yielding,VBG
+yield,NN
+yielded,VBD
+yields,NNS
+yip,NN
+yinger,NP
+yielding-mediterranian-woman-,NN
+yiddish,NP

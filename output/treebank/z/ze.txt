@@ -1,0 +1,4 @@
+term,tag
+zealand,NNP
+zero,CD
+zenith,NNP

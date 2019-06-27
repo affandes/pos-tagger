@@ -1,0 +1,17 @@
+term,tag
+wrecking,VBG
+wrath,NN
+wrists,NNS
+write-downs,NNS
+write-off,NN
+writer,NN
+wrestling,VBG
+wrong,JJ
+writing,NN
+write,VB
+wright,NNP
+written,VBN
+writers,NNPS
+wrenching,JJ
+wrongdoing,NN
+wrote,VBD

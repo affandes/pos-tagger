@@ -1,0 +1,9 @@
+term,tag
+aquam,FW-NN
+aquisition,NN
+aqueous,JJ
+aquacutie,NP
+aqua-lung,NN
+aquinas,NP
+aqueducts,NNS
+aquidneck,NP

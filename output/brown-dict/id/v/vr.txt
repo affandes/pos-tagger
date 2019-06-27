@@ -1,0 +1,4 @@
+term,tag
+vrilium,NP-TL
+vroman,NP
+vrai,FW-JJ

@@ -1,0 +1,4 @@
+term,tag
+cs,NNP
+csf,NP
+csv,NNP

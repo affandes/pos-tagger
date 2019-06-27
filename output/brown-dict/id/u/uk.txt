@@ -1,0 +1,4 @@
+term,tag
+ukrainians,NPS
+uk,NN
+ukrainian,JJ-TL

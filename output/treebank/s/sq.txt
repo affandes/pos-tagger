@@ -1,0 +1,6 @@
+term,tag
+squeezed,VBN
+squier,NNP
+squeeze,NN
+squad,NN
+square,JJ

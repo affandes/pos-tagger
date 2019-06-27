@@ -1,0 +1,8 @@
+term,tag
+akita,NP
+aku,NN
+akerfeldt,NNP
+akio,NNP
+akron,NP
+akin,JJ
+aktiebolaget,NNP

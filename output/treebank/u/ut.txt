@@ -1,0 +1,7 @@
+term,tag
+utsumi,NNP
+uttering,VBG
+utah,NNP
+utilities,NNS
+utterly,RB
+utility,NN

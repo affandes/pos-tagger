@@ -1,0 +1,13 @@
+term,tag
+axles,NNS
+axially,RB
+axiomatic,JJ
+axes,NNS
+axiom,NN
+axial,JJ
+axiological,JJ
+axle,NN
+axe,NN
+ax,NN-TL
+axioms,NNS
+axis,NN

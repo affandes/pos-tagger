@@ -1,0 +1,3 @@
+term,tag
+nylev,NNP
+nyse,NNP

@@ -1,0 +1,4 @@
+term,tag
+fda,NN
+fdr,NN
+fda's,NN

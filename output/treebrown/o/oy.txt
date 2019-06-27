@@ -1,0 +1,8 @@
+term,tag
+oyajima,NP
+oy,NNP
+oyabun,FW-NN
+oystchers'll,NNS+MD
+oysters,NNS
+oystchers,NNS
+oyster,NN

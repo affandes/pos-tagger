@@ -1,0 +1,8 @@
+term,tag
+pfc,NN
+pfohl,NP
+pfc.,NP
+pfaff,NP
+pfffted,VBD
+pfau,NP
+pfennig,NN

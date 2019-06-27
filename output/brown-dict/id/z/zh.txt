@@ -1,0 +1,4 @@
+term,tag
+zhitkov,NP
+zhok,NP
+zhitzhakli,NP

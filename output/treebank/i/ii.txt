@@ -1,0 +1,3 @@
+term,tag
+ii,NNP
+iii,NNP

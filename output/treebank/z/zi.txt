@@ -1,0 +1,4 @@
+term,tag
+zinc,NN
+zicklin,NNP
+zip,VB

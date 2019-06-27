@@ -1,0 +1,16 @@
+term,tag
+ignite,VB
+ignored,VBN
+ignoramus,NN
+igor,NP
+igbo,NP
+ignazio,NP
+ignorance,NN
+ignoring,VBG
+ignore,VB
+ignited,VBN
+ignorant,JJ
+ignition,NN
+ignores,VBZ
+igneous,JJ
+iglehart,NP

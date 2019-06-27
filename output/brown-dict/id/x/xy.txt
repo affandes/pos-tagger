@@ -1,0 +1,5 @@
+term,tag
+xylem,NN
+xydis,NP
+xydis',NP$
+xylophones,NNS
